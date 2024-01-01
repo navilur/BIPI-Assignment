@@ -1,0 +1,92 @@
+
+.admin-login-left{
+	width: 48%;
+	height: 500px;
+	float: left;
+	border:1px solid silver;
+	overflow: hidden;
+}
+
+
+.admin-login-right{
+	width: 50%;
+	float: right;
+	border:1px solid silver;
+	margin-bottom: 50px;
+}
+
+
+.admin-login-left input[type="text"],input[type="password"]{
+
+width: 300px;
+height: 26px;
+padding-left: 10px;
+font-family: verdana;
+font-size: 15px;
+
+}
+
+
+.admin-login-left fieldset{
+	width: 80%;
+	margin: 50px auto;
+	padding: 20px;
+}
+
+.admin-login-left lable{
+	font-size: 16px;
+	font-family: verdana;
+	color:black;
+	font-weight: bolder;
+}
+
+
+
+.user-select{
+	font-family: verdana;
+	font-size: 11px;
+	float: right;
+	margin-bottom: 40px;
+	color:gray;
+	margin-right:30px;
+	margin-top: 20px; 
+}
+
+
+.admin-login-right input[type="text"],input[type="password"],input[type="number"],
+textarea,select{
+width: 300px;
+height: 26px;
+padding-left: 10px;
+font-family: verdana;
+font-size: 15px;
+margin-top:5px;
+margin-bottom: 5px;
+}
+
+.admin-login-right fieldset{
+	width: 80%;
+	margin: 50px auto;
+	padding: 20px;
+
+}
+
+.admin-login-right lable{
+	font-size: 16px;
+	font-family: verdana;
+	color:black;
+	font-weight: bolder;
+}
+
+
+.admin-login-right input[type="submit"]{
+	padding: 7px 15px;
+	margin-top: 40px;
+}
+
+.admin-login-left input[type="submit"]{
+	padding: 7px 15px;
+}
+
+
+

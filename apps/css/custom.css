@@ -1,0 +1,58 @@
+.notice{
+    width: 90%;
+    margin:20px auto;
+}
+
+
+.notice h1{
+    font-family: verdana;
+    font-size: 20px;
+    padding:5px; 
+    
+}
+
+
+.notice ul{
+	list-style: none;
+}
+
+.notice ul li{
+	display: block;
+}
+
+.notice ul a{
+	display: block;
+	font-family: verdana;
+    font-size: 18px;
+    padding: 5px;
+    text-decoration: none;
+
+}
+
+.notice ul a:hover{
+	text-decoration: underline;
+	color:green;
+}
+
+
+.notice table{
+	margin-top:30px;
+	border:1px solid silver;
+}
+
+.notice table td,th{
+	border:1px solid silver;
+	padding: 5px 5px;
+	font-family: verdana;
+	font-size:14px;
+	color:black;
+}
+
+.notice table td a{
+	text-decoration:none;
+}
+
+.notice table td a:hover{
+	text-decoration: underline;
+	color:red;
+}
